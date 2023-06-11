@@ -45,7 +45,7 @@ nav {
     flex-direction: row;
     justify-content: space-between;
     border-bottom: var(--hsl-1) 1px dashed;
-    padding: 0.5em 0.7em
+    padding: 0.5em 0.5em .0 .7em;
 }
 button {
   border: 0;
