@@ -3,7 +3,7 @@
   --bg-color: hsl(0 0% 99% / 1);
   --surface: hsl(0deg 0% 100%);
   --hsl-1: hsl(0deg 0% 91%);
-  --hsl-2: hsl(248.46deg 39% 39.22%);
+  --hsl-2:hsl(213.53deg 45.54% 56.08%);
   --f--1: "M PLUS Rounded 1c", sans-serif, "Open Sans", sans-serif;
   --selection: darkgoldenrod;
 }
@@ -12,7 +12,6 @@
   --bg-color: hsl(240deg 5.13% 15.29%);
   --surface: hsl(0deg 0% 14.49%);
   --hsl-1: hsl(0deg 0% 25.41%);
-  --hsl-2: hsl(240deg 66.67% 94.12%);
   --selection: gold;
 }
 ::selection {
