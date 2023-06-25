@@ -73,6 +73,7 @@ main {
 .layouts {
   margin-block: 20px;
 }
+.layouts .x:hover { border-color: #5c89c2; }
 .y {
   flex: 1 0 auto;
 }
