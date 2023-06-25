@@ -189,7 +189,7 @@ footer {
   font-size: 13px;
 }
 .fade {
-  animation: fadeInUpease-in-out;
+  animation: fadeInUp;
 }
 @keyframes fadeInUp {
   0% {
